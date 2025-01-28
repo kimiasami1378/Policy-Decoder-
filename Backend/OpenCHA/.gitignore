@@ -1,0 +1,17 @@
+**/**/__pycache__
+**/**/.vscode
+**/**/.DS_Store
+
+venv
+data
+node_modules
+
+*.json
+CHA.egg-info/
+build
+dist
+models
+*.wav
+wav2vec2_checkpoints
+pretrained_models
+openCHA.egg-info
